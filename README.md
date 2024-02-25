@@ -26,5 +26,6 @@ At any moment, the User can restore the data with the Restore button.
 
 ## Example
 Removed points are marked with red. They are plotted for reference only and are not taken into account when e.g. fitting polynomial. Degree of the polynomial is indicated by the user and plotted with green line. Currently fitted polynomial can be subtracted from the data by clicking Subtract polynomial.
+
 <img src="screenshot/detrender_example.png" width="70%">
 
